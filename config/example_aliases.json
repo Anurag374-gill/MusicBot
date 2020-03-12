@@ -2,4 +2,5 @@
     "play": ["p"],
     "skip": ["s"],
     "queue": ["q"]
+    "nowplaying": ["np"],
 }
